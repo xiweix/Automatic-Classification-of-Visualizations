@@ -1,1 +1,1 @@
-# Validation-and-Optimization-of-Visualization-Classifiers
+# A Machine Learning Approach to the Automatic Classification of Visualizations
